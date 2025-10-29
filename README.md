@@ -2,7 +2,7 @@
 
 A comprehensive data analytics project that predicts patient no-shows for medical appointments using machine learning and visualizes insights through an interactive Power BI dashboard.
 
-![Power BI Dashboard](dashboard_preview.png)
+![Alt Text](https://github.com/azam-1125/healthcare_showup_prediction/blob/4a936282e612deebcb92eb24e1c806e0b93f8d8a/Screenshot%202025-10-28%20224542.png)
 
 ## 📊 Project Overview
 
